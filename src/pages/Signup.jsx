@@ -4,7 +4,7 @@ import { BiHide } from "react-icons/bi"
 import { AiOutlineEye } from "react-icons/ai";
 // for custom alert Box
 import Swal from 'sweetalert2'
-import withReactContent from 'sweetalert2-react-content'
+// import withReactContent from 'sweetalert2-react-content'
 
 const init = {
     name:"",
